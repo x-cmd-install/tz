@@ -1,11 +1,13 @@
 about:
-  description: 🌐 A time zone helper
+  description:
+  |
+    🌐 A time zone helper
   license: GPL-3.0
   homepage: 
   head: 7dc9ad0
   archived: false
   latestVersion: v0.8.0
-  collectedAt: 2026-09-03T05:14:07Z
+  collectedAt: 2026-09-03T22:36:12Z
 timeline:
   created: 2021-01-30
   lastCommit: 2025-02-14
@@ -20,7 +22,7 @@ popularity:
   issue: 46
 language:
   Go: 65589
-totalLine: 65589
+totalBytes: 65589
 recent:
   last30d:
     since: 2026-08-04
