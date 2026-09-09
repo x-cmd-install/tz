@@ -751,7 +751,7 @@
       "state": "uploaded",
       "size": 1495405,
       "digest": null,
-      "download_count": 118,
+      "download_count": 119,
       "created_at": "2025-02-14T01:49:18Z",
       "updated_at": "2025-02-14T01:49:19Z",
       "browser_download_url": "https://github.com/oz/tz/releases/download/v0.8.0/tz_0.8.0_linux_amd64.tar.gz"
