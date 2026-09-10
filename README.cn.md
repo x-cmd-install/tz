@@ -4,7 +4,7 @@
 
 🌐 A time zone helper
 
-![tz](https://repo.x-cmd.io/tz.svg)
+![tz](https://repo.x-cmd.io/tz.svg?lang=zh)
 
 ## 安装
 
@@ -22,7 +22,50 @@ x install tz
 - **最新版本**: `v0.8.0` (2025-02-14)
 - **最近提交**: 2025-02-14
 - **Release 含资产**: 39 个
-- **发布时间**: 2025-02-14T01:49:22Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [metadata.json](https://github.com/oz/tz/releases/download/v0.8.0/metadata.json) | 214 B | `other` |
+| [tz_0.8.0_checksums.txt](https://github.com/oz/tz/releases/download/v0.8.0/tz_0.8.0_checksums.txt) | 3.4 KiB | `other` |
+| [tz_0.8.0_darwin_amd64.tar.gz](https://github.com/oz/tz/releases/download/v0.8.0/tz_0.8.0_darwin_amd64.tar.gz) | 1.4 MiB | `native/darwin/x64` |
+| [tz_0.8.0_darwin_arm64.tar.gz](https://github.com/oz/tz/releases/download/v0.8.0/tz_0.8.0_darwin_arm64.tar.gz) | 1.3 MiB | `native/darwin/arm64` |
+| [tz_0.8.0_freebsd_386.tar.gz](https://github.com/oz/tz/releases/download/v0.8.0/tz_0.8.0_freebsd_386.tar.gz) | 1.3 MiB | `native/unknown` |
+| [tz_0.8.0_freebsd_amd64.tar.gz](https://github.com/oz/tz/releases/download/v0.8.0/tz_0.8.0_freebsd_amd64.tar.gz) | 1.4 MiB | `native/linux/x64` |
+| [tz_0.8.0_freebsd_arm64.tar.gz](https://github.com/oz/tz/releases/download/v0.8.0/tz_0.8.0_freebsd_arm64.tar.gz) | 1.3 MiB | `native/linux/arm64` |
+| [tz_0.8.0_freebsd_armv6.tar.gz](https://github.com/oz/tz/releases/download/v0.8.0/tz_0.8.0_freebsd_armv6.tar.gz) | 1.3 MiB | `native/linux/arm` |
+| [tz_0.8.0_linux_386.apk](https://github.com/oz/tz/releases/download/v0.8.0/tz_0.8.0_linux_386.apk) | 1.4 MiB | `other` |
+| [tz_0.8.0_linux_386.deb](https://github.com/oz/tz/releases/download/v0.8.0/tz_0.8.0_linux_386.deb) | 1.3 MiB | `other` |
+| [tz_0.8.0_linux_386.ipk](https://github.com/oz/tz/releases/download/v0.8.0/tz_0.8.0_linux_386.ipk) | 1.3 MiB | `other` |
+| [tz_0.8.0_linux_386.pkg.tar.zst](https://github.com/oz/tz/releases/download/v0.8.0/tz_0.8.0_linux_386.pkg.tar.zst) | 1.3 MiB | `other` |
+| [tz_0.8.0_linux_386.rpm](https://github.com/oz/tz/releases/download/v0.8.0/tz_0.8.0_linux_386.rpm) | 1.4 MiB | `other` |
+| [tz_0.8.0_linux_386.tar.gz](https://github.com/oz/tz/releases/download/v0.8.0/tz_0.8.0_linux_386.tar.gz) | 1.3 MiB | `native/unknown` |
+| [tz_0.8.0_linux_amd64.apk](https://github.com/oz/tz/releases/download/v0.8.0/tz_0.8.0_linux_amd64.apk) | 1.5 MiB | `native/linux/x64` |
+| [tz_0.8.0_linux_amd64.deb](https://github.com/oz/tz/releases/download/v0.8.0/tz_0.8.0_linux_amd64.deb) | 1.4 MiB | `native/linux/x64` |
+| [tz_0.8.0_linux_amd64.ipk](https://github.com/oz/tz/releases/download/v0.8.0/tz_0.8.0_linux_amd64.ipk) | 1.4 MiB | `native/linux/x64` |
+| [tz_0.8.0_linux_amd64.pkg.tar.zst](https://github.com/oz/tz/releases/download/v0.8.0/tz_0.8.0_linux_amd64.pkg.tar.zst) | 1.4 MiB | `native/linux/x64` |
+| [tz_0.8.0_linux_amd64.rpm](https://github.com/oz/tz/releases/download/v0.8.0/tz_0.8.0_linux_amd64.rpm) | 1.5 MiB | `native/linux/x64` |
+| [tz_0.8.0_linux_amd64.tar.gz](https://github.com/oz/tz/releases/download/v0.8.0/tz_0.8.0_linux_amd64.tar.gz) | 1.4 MiB | `native/linux/x64` |
+| [tz_0.8.0_linux_arm64.apk](https://github.com/oz/tz/releases/download/v0.8.0/tz_0.8.0_linux_arm64.apk) | 1.3 MiB | `native/linux/arm64` |
+| [tz_0.8.0_linux_arm64.deb](https://github.com/oz/tz/releases/download/v0.8.0/tz_0.8.0_linux_arm64.deb) | 1.3 MiB | `native/linux/arm64` |
+| [tz_0.8.0_linux_arm64.ipk](https://github.com/oz/tz/releases/download/v0.8.0/tz_0.8.0_linux_arm64.ipk) | 1.3 MiB | `native/linux/arm64` |
+| [tz_0.8.0_linux_arm64.pkg.tar.zst](https://github.com/oz/tz/releases/download/v0.8.0/tz_0.8.0_linux_arm64.pkg.tar.zst) | 1.3 MiB | `native/linux/arm64` |
+| [tz_0.8.0_linux_arm64.rpm](https://github.com/oz/tz/releases/download/v0.8.0/tz_0.8.0_linux_arm64.rpm) | 1.4 MiB | `native/linux/arm64` |
+| [tz_0.8.0_linux_arm64.tar.gz](https://github.com/oz/tz/releases/download/v0.8.0/tz_0.8.0_linux_arm64.tar.gz) | 1.3 MiB | `native/linux/arm64` |
+| [tz_0.8.0_linux_armv6.apk](https://github.com/oz/tz/releases/download/v0.8.0/tz_0.8.0_linux_armv6.apk) | 1.4 MiB | `native/linux/arm` |
+| [tz_0.8.0_linux_armv6.deb](https://github.com/oz/tz/releases/download/v0.8.0/tz_0.8.0_linux_armv6.deb) | 1.4 MiB | `native/linux/arm` |
+| [tz_0.8.0_linux_armv6.ipk](https://github.com/oz/tz/releases/download/v0.8.0/tz_0.8.0_linux_armv6.ipk) | 1.4 MiB | `native/linux/arm` |
+| [tz_0.8.0_linux_armv6.rpm](https://github.com/oz/tz/releases/download/v0.8.0/tz_0.8.0_linux_armv6.rpm) | 1.4 MiB | `native/linux/arm` |
+| [tz_0.8.0_linux_armv6.tar.gz](https://github.com/oz/tz/releases/download/v0.8.0/tz_0.8.0_linux_armv6.tar.gz) | 1.4 MiB | `native/linux/arm` |
+| [tz_0.8.0_openbsd_386.tar.gz](https://github.com/oz/tz/releases/download/v0.8.0/tz_0.8.0_openbsd_386.tar.gz) | 1.3 MiB | `native/unknown` |
+| [tz_0.8.0_openbsd_amd64.tar.gz](https://github.com/oz/tz/releases/download/v0.8.0/tz_0.8.0_openbsd_amd64.tar.gz) | 1.4 MiB | `native/linux/x64` |
+| [tz_0.8.0_openbsd_arm64.tar.gz](https://github.com/oz/tz/releases/download/v0.8.0/tz_0.8.0_openbsd_arm64.tar.gz) | 1.3 MiB | `native/linux/arm64` |
+| [tz_0.8.0_openbsd_armv6.tar.gz](https://github.com/oz/tz/releases/download/v0.8.0/tz_0.8.0_openbsd_armv6.tar.gz) | 1.3 MiB | `native/linux/arm` |
+| [tz_0.8.0_windows_386.tar.gz](https://github.com/oz/tz/releases/download/v0.8.0/tz_0.8.0_windows_386.tar.gz) | 1.5 MiB | `native/win/x64` |
+| [tz_0.8.0_windows_amd64.tar.gz](https://github.com/oz/tz/releases/download/v0.8.0/tz_0.8.0_windows_amd64.tar.gz) | 1.5 MiB | `native/win/x64` |
+| [tz_0.8.0_windows_arm64.tar.gz](https://github.com/oz/tz/releases/download/v0.8.0/tz_0.8.0_windows_arm64.tar.gz) | 1.4 MiB | `native/win/arm64` |
+| [tz_0.8.0_windows_armv6.tar.gz](https://github.com/oz/tz/releases/download/v0.8.0/tz_0.8.0_windows_armv6.tar.gz) | 1.5 MiB | `native/win/x64` |
 
 ## 流行度
 
@@ -70,4 +113,4 @@ tz 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索�
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T04:50:15Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:41:49Z._
