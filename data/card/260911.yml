@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.8.0"
   latestRelease: "v0.8.0"
   latestPrerelease: ""
-  collectedAt: 2026-09-11T00:07:37Z
+  collectedAt: 2026-09-11T04:54:03Z
 timeline:
   created: 2021-01-30
   lastCommit: 2025-02-14
@@ -83,7 +83,7 @@ total:
   commit: 136
 ---
 path: /home/runner/.x-repo/github.com/oz/tz
-collectedAt: 2026-09-11T00:07:38Z
+collectedAt: 2026-09-11T04:54:04Z
 loc:
   Go:
     code: 1994
