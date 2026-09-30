@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 3453,
       "digest": null,
-      "download_count": 145,
+      "download_count": 147,
       "created_at": "2025-02-14T01:49:21Z",
       "updated_at": "2025-02-14T01:49:21Z",
       "browser_download_url": "https://github.com/oz/tz/releases/download/v0.8.0/tz_0.8.0_checksums.txt"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 1497164,
       "digest": null,
-      "download_count": 41,
+      "download_count": 43,
       "created_at": "2025-02-14T01:49:19Z",
       "updated_at": "2025-02-14T01:49:19Z",
       "browser_download_url": "https://github.com/oz/tz/releases/download/v0.8.0/tz_0.8.0_darwin_amd64.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 1413171,
       "digest": null,
-      "download_count": 53,
+      "download_count": 58,
       "created_at": "2025-02-14T01:49:17Z",
       "updated_at": "2025-02-14T01:49:18Z",
       "browser_download_url": "https://github.com/oz/tz/releases/download/v0.8.0/tz_0.8.0_darwin_arm64.tar.gz"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 1400608,
       "digest": null,
-      "download_count": 7,
+      "download_count": 8,
       "created_at": "2025-02-14T01:49:19Z",
       "updated_at": "2025-02-14T01:49:19Z",
       "browser_download_url": "https://github.com/oz/tz/releases/download/v0.8.0/tz_0.8.0_linux_386.deb"
@@ -751,7 +751,7 @@
       "state": "uploaded",
       "size": 1495405,
       "digest": null,
-      "download_count": 338,
+      "download_count": 346,
       "created_at": "2025-02-14T01:49:18Z",
       "updated_at": "2025-02-14T01:49:19Z",
       "browser_download_url": "https://github.com/oz/tz/releases/download/v0.8.0/tz_0.8.0_linux_amd64.tar.gz"
